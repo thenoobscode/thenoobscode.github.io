@@ -1624,7 +1624,7 @@ select:focus::-webkit-input-placeholder
 {
     .nc-menu-burger.js-offcanvas-menu-open
     {
-        display: none;
+      
     }
 }
 
